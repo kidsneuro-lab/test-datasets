@@ -1,2 +1,2 @@
 sample,bam
-111_TEST_P_C,bulkisoseq/data/111_TEST_P_C.bam
+111_TEST_P_C,https://raw.githubusercontent.com/kidsneuro-lab/test-datasets/refs/heads/bulkisoseq/bulkisoseq/data/111_TEST_P_C.bam
